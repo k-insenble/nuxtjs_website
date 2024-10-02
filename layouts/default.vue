@@ -25,6 +25,9 @@
             <li class="nav-item">
               <a class="nav-link" href="/post">Sample Post</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/test">Nest.jsのtestページ</a>
+            </li>
           </ul>
         </div>
       </div>
