@@ -1,7 +1,5 @@
 <template>
   <div>
-
-
     <!-- Page Header -->
     <header class="masthead" style="background-image: url('https://blackrockdigital.github.io/startbootstrap-clean-blog/img/home-bg.jpg')">
       <div class="overlay"></div>
