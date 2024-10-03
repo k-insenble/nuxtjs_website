@@ -11,7 +11,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'robots', name: 'robots', content: 'noindex' },
+      { meta: 'robots', name: 'robots', content: 'noindex' },
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
